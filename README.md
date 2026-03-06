@@ -12,3 +12,5 @@ This app displays a simple video compilation page with basic HTML structure and 
 1. Clone this repository:
    ```bash
    git clone https://github.com/m-kumar-student/a-video-compilation-page.git
+Note:-
+    This project is for learning purposes. Video links are used for demonstration only and belong to their respective creators.
